@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+.header{width: 300px;height: 50px; background-color:aqua; margin:auto;
+			text-align: center;border: 1px solid black;}
+.nav{width:50px;height:300px;background-color: yellow;margin: auto;text-align: center;border: 1px solid black;}
+.section{width: 200px;height: 250px;background-color: green;}
+</style>
+</head>
+<body>
+<header class="header">&#60;header&#62;</header>
+<nav class="nav">&#60;nav&#62;</nav>
+<aside class="aside">&#60;aside&#62;</aside>
+<footer class="footer">&#60;footer&#62;</footer>
+<section class="section">&#60;section&#62;</section>
+</body>
+</html>

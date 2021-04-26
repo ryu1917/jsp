@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<header>&#60;header&#62;</header>
+<nav>&#60;nav&#62;</nav>
+<aside>&#60;aside&#62;</aside>
+<footer>&#60;footer&#62;</footer>
+<section>&#60;section&#62;</section>
+</body>
+</html>

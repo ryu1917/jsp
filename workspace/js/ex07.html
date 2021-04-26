@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex07</title>
+<script type="text/javascript">
+	var img;
+	function add(){
+		img= document.createElement('img')
+		img.src='i14704658100.jpg'
+		img.width=100
+		//img.height=100
+		img.setAttribute('height',300)
+		//document.body.append(img)
+		document.getElementById("test").appendChild(img)
+	}
+	function rm(){
+		document.getElementById("test").removeChile(img)
+	}
+	function insertOpt(){
+		var ins=['1','2','3','4']
+		var insert = document.getElementById("insert")
+		for(i=0;i<ins.length;i++){
+		var opt=document.createElement("option")
+		opt.innerHTML=ins[i]
+		insert.appendChild(opt)
+		}
+	}
+	function div(){
+		div=document.getElementById("div")
+		div.innerHTML=""
+	}
+	
+</script>
+</head>
+<body onload="insertOpt()">
+<select id="insert"></select>
+	<div id="div">
+		안녕하세요<br>
+		안녕하세요<br>
+		안녕하세요<br>
+		
+	</div>
+	<button onclick="div()">삭제</button>
+
+
+<hr>
+	<p id="test">test</p>
+	<a href="#" onclick="add()">이미지 추가</a>
+	<a href="#" onclick="rm()">이미지 삭제</a>
+</body>
+</html>

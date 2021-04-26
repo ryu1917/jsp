@@ -1,0 +1,32 @@
+<%@page import="java.sql.*"%>
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>select02.jsp<br>
+
+ id : <%= request.getParameter("id") %>
+ 
+ <%
+	Class.forName("oracle.jdbc.driver.OracleDriver");
+	String url="jdbc:oracle:thin:@localhost:1521:xe";
+	String id="ryu",pwd="1324";
+	DriverManager.getConnection(url,id,pwd);
+	Connection con=DriverManager.getConnection(url,id,pwd);
+	
+	String sql="select * from newst";
+	PreparedStatement ps=con.prepareStatement(sql);
+	ResultSet rs=ps.executeQuery();%>
+ 
+ 
+ 
+ 
+ 
+ 
+</body>
+</html>

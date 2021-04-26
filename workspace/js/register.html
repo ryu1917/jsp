@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>퀴즈</title>
+<script type="text/javascript">
+function success(){
+	id=document.getElementById('id')
+	pw=document.getElementById('pw')
+	pwchk=document.getElementById('pwchk')
+	name=document.getElementById('name')
+	if(id.value==0){
+		alert("아이디는 필수 사항입니다.")
+		id.focus()
+		}else if(pw.value==0){
+		alert("비밀번호는 필수 사항입니다.")
+		pw.focus()
+		}else if(pwchk.value==0){
+		alert("비밀번호 확인은 필수 사항입니다.")
+		pwchk.focus()
+		}else if(pw.value!=pwchk.value){
+		alert("비밀번호가 틀렸습니다")
+		}else{
+		location.href="success.html"
+		}
+	}
+	
+</script>
+</head>
+<body>
+	<input type="text" id="id" placeholder="input id"><label>*필수항목</label><br>
+	<input type="password" id="pw"placeholder="input pw"><label>*필수항목</label><br>
+	<input type="password" id="pwchk"placeholder="input check"><br>
+	<input type="text" id="name"placeholder="input name"><br>
+	<hr>
+	<button type="button" onclick="success()">등록</button>
+</body>
+</html>

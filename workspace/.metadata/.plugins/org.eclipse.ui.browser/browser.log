@@ -1,0 +1,251 @@
+
+4월 21, 2021 16:40:55.242 NEW SESSION
+4월 21, 2021 16:40:55.242 [2848:11576:0421/164055.240:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:40:55.243 
+4월 21, 2021 16:40:59.427 [2848:11576:0421/164059.427:ERROR:device_event_log_impl.cc(214)] [16:40:59.428] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:40:59.428 [2848:11576:0421/164059.428:ERROR:device_event_log_impl.cc(214)] [16:40:59.428] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:42:05.159 [5880:2180:0421/164205.158:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:42:05.159 
+4월 21, 2021 16:42:07.329 [5880:2180:0421/164207.329:ERROR:device_event_log_impl.cc(214)] [16:42:07.328] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:48:57.114 [7316:11956:0421/164857.114:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:48:57.114 
+4월 21, 2021 16:48:57.283 [7316:11956:0421/164857.283:ERROR:device_event_log_impl.cc(214)] [16:48:57.283] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:48:57.284 [7316:11956:0421/164857.284:ERROR:device_event_log_impl.cc(214)] [16:48:57.284] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:49:42.811 [2968:3764:0421/164942.811:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:49:42.812 
+4월 21, 2021 16:49:55.341 [12036:9476:0421/164955.341:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:49:55.342 
+4월 21, 2021 16:50:03.548 [12036:9476:0421/165003.548:ERROR:device_event_log_impl.cc(214)] [16:50:03.548] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:50:25.65 [12036:9476:0421/165025.065:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 16:50:25 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 16:50:25.66 [12036:9476:0421/165025.065:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 16:50:25 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 16:58:17.839 [2292:4404:0421/165817.838:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 16:58:17.839 
+4월 21, 2021 16:58:25.922 [2292:4404:0421/165825.922:ERROR:device_event_log_impl.cc(214)] [16:58:25.922] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 16:58:48.51 [2292:4404:0421/165848.051:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 16:58:48 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 16:58:48.51 [2292:4404:0421/165848.051:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 16:58:48 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 17:11:38.903 [3416:1332:0421/171138.903:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 17:11:38.903 
+4월 21, 2021 17:11:49.69 [3416:1332:0421/171149.069:ERROR:device_event_log_impl.cc(214)] [17:11:49.070] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 17:11:49.71 [3416:1332:0421/171149.071:ERROR:device_event_log_impl.cc(214)] [17:11:49.072] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 17:12:48.57 [3416:1332:0421/171248.057:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 17:12:48 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 17:12:48.57 [3416:1332:0421/171248.057:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 17:12:48 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 17:26:22.366 [11076:4028:0421/172622.366:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 17:26:22.366 
+4월 21, 2021 17:26:31.495 [11076:4028:0421/172631.495:ERROR:device_event_log_impl.cc(214)] [17:26:31.496] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 18:02:56.929 [6452:3792:0421/180256.929:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 18:02:56.930 
+4월 21, 2021 18:03:06.62 [6452:3792:0421/180306.062:ERROR:device_event_log_impl.cc(214)] [18:03:06.061] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 18:03:06.64 [6452:3792:0421/180306.064:ERROR:device_event_log_impl.cc(214)] [18:03:06.063] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 21, 2021 18:06:36.60 [6452:3792:0421/180636.060:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 18:06:36 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 18:06:36.61 [6452:3792:0421/180636.060:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 18:06:36 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 19:15:24.788 [11808:7112:0421/191524.788:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:15:24.788 
+4월 21, 2021 19:17:16.439 [12736:12512:0421/191716.439:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:17:16.439 
+4월 21, 2021 19:22:36.835 [12736:12512:0421/192236.835:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 19:22:36 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 19:22:36.835 [12736:12512:0421/192236.835:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 19:22:36 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 19:24:12.608 [5692:9596:0421/192412.608:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:24:12.609 
+4월 21, 2021 19:29:00.971 [11804:11276:0421/192900.971:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:29:00.972 
+4월 21, 2021 19:29:34.29 [5628:6056:0421/192934.029:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:29:34.29 
+4월 21, 2021 19:33:27.952 [8200:11924:0421/193327.952:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:33:27.952 
+4월 21, 2021 19:37:05.436 [9636:2628:0421/193705.436:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:37:05.436 
+4월 21, 2021 19:41:49.357 [12596:6888:0421/194149.357:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 19:41:49.358 
+4월 21, 2021 19:43:06.832 [12596:6888:0421/194306.831:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 19:43:06 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 19:43:06.832 [12596:6888:0421/194306.831:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 19:43:06 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 20:28:42.783 [12236:5912:0421/202842.783:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 20:28:42.783 
+4월 21, 2021 20:29:24.320 [5616:4436:0421/202924.320:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 20:29:24.321 
+4월 21, 2021 20:30:08.414 [13108:11900:0421/203008.413:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 20:30:08.414 
+4월 21, 2021 20:47:43.602 [3708:12336:0421/204743.601:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 20:47:43.602 
+4월 21, 2021 20:59:35.228 [11820:13024:0421/205935.228:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 21, 2021 20:59:35.229 
+4월 21, 2021 21:02:07.840 [11820:13024:0421/210207.840:ERROR:CONSOLE(1)] "Request has failed. [object Object] Wed Apr 21 2021 21:02:07 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 21, 2021 21:02:07.840 [11820:13024:0421/210207.840:ERROR:CONSOLE(1)] " [object Object] Wed Apr 21 2021 21:02:07 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+
+4월 22, 2021 15:46:54.737 NEW SESSION
+4월 22, 2021 15:46:54.737 [10580:2744:0422/154654.735:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 15:46:54.738 
+4월 22, 2021 15:47:02.838 [10580:2744:0422/154702.838:ERROR:device_event_log_impl.cc(214)] [15:47:02.838] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:47:02.839 [10580:2744:0422/154702.839:ERROR:device_event_log_impl.cc(214)] [15:47:02.839] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:47:02.840 [10580:2744:0422/154702.840:ERROR:device_event_log_impl.cc(214)] [15:47:02.840] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:54:12.812 [5408:6660:0422/155412.812:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 15:54:12.813 
+4월 22, 2021 15:54:15.103 [5408:6660:0422/155415.103:ERROR:device_event_log_impl.cc(214)] [15:54:15.103] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:54:15.104 [5408:6660:0422/155415.104:ERROR:device_event_log_impl.cc(214)] [15:54:15.104] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:54:36.138 [12564:13464:0422/155436.138:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 15:54:36.138 
+4월 22, 2021 15:54:41.304 [12564:13464:0422/155441.304:ERROR:device_event_log_impl.cc(214)] [15:54:41.303] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 22, 2021 15:55:59.228 [12564:13464:0422/155559.228:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 15:55:59 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 15:55:59.229 [12564:13464:0422/155559.229:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 15:55:59 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 15:59:18.686 [12564:13464:0422/155918.686:ERROR:device_event_log_impl.cc(214)] [15:59:18.687] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 22, 2021 16:05:24.461 [8300:5576:0422/160524.461:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:05:24.462 
+4월 22, 2021 16:06:24.226 [8300:5576:0422/160624.226:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 16:06:24 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 16:06:24.226 [8300:5576:0422/160624.226:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 16:06:24 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 16:14:47.468 [1824:10160:0422/161447.468:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:14:47.469 
+4월 22, 2021 16:15:27.217 [1824:10160:0422/161527.217:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 16:15:27 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 16:15:27.217 [1824:10160:0422/161527.217:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 16:15:27 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 16:39:36.463 [13788:14264:0422/163936.463:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:39:36.464 
+4월 22, 2021 16:42:06.769 [8032:10832:0422/164206.769:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:42:06.769 
+4월 22, 2021 16:43:29.966 [9096:13120:0422/164329.965:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:43:29.966 
+4월 22, 2021 16:44:07.924 [14244:1756:0422/164407.924:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:44:07.924 
+4월 22, 2021 16:44:26.590 [980:13336:0422/164426.590:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:44:26.590 
+4월 22, 2021 16:47:08.88 [13288:4168:0422/164708.088:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:47:08.88 
+4월 22, 2021 16:47:18.12 [8284:4068:0422/164718.012:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:47:18.13 
+4월 22, 2021 16:48:02.939 [10792:12856:0422/164802.939:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:48:02.940 
+4월 22, 2021 16:48:40.459 [8488:13972:0422/164840.459:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:48:40.459 
+4월 22, 2021 16:51:14.69 [304:13888:0422/165114.069:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:51:14.69 
+4월 22, 2021 16:55:03.00 [11936:4208:0422/165503.000:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:55:03.00 
+4월 22, 2021 16:55:34.957 [13168:14152:0422/165534.957:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:55:34.958 
+4월 22, 2021 16:55:41.384 [6264:9852:0422/165541.384:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 16:55:41.384 
+4월 22, 2021 17:06:53.114 [6336:10576:0422/170653.114:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 17:06:53.114 
+4월 22, 2021 17:07:32.270 [2436:5468:0422/170732.270:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 17:07:32.270 
+4월 22, 2021 17:07:54.222 [2436:5468:0422/170754.221:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 17:07:54 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 17:07:54.222 [2436:5468:0422/170754.221:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 17:07:54 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 17:18:36.283 [9512:5860:0422/171836.283:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 17:18:36.283 
+4월 22, 2021 17:30:10.848 [9512:5860:0422/173010.847:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 17:30:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 17:30:10.848 [9512:5860:0422/173010.847:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 17:30:10 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 17:52:27.802 [12460:11896:0422/175227.802:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 17:52:27.803 
+4월 22, 2021 17:52:38.265 [11196:7648:0422/175238.265:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 17:52:38.266 
+4월 22, 2021 18:01:59.785 [12256:8236:0422/180159.785:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 18:01:59.786 
+4월 22, 2021 18:02:46.840 [12256:8236:0422/180246.840:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 18:02:46 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 18:02:46.840 [12256:8236:0422/180246.840:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 18:02:46 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 18:15:26.572 [12256:8236:0422/181526.571:ERROR:device_event_log_impl.cc(214)] [18:15:26.571] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+4월 22, 2021 19:18:15.987 [9644:6456:0422/191815.987:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 19:18:15.988 
+4월 22, 2021 19:18:38.846 [9644:6456:0422/191838.846:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 19:18:38 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 19:18:38.846 [9644:6456:0422/191838.846:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 19:18:38 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 19:47:53.53 [1948:5352:0422/194753.052:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 19:47:53.53 
+4월 22, 2021 19:50:01.849 [1948:5352:0422/195001.849:ERROR:CONSOLE(1)] "Request has failed. [object Object] Thu Apr 22 2021 19:50:01 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 19:50:01.849 [1948:5352:0422/195001.849:ERROR:CONSOLE(1)] " [object Object] Thu Apr 22 2021 19:50:01 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 22, 2021 20:19:11.899 [3764:11540:0422/201911.899:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:19:11.900 
+4월 22, 2021 20:19:19.68 [11048:1436:0422/201919.068:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:19:19.68 
+4월 22, 2021 20:19:32.846 [13880:14320:0422/201932.846:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:19:32.846 
+4월 22, 2021 20:21:47.749 [7452:9832:0422/202147.749:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:21:47.749 
+4월 22, 2021 20:21:51.937 [1828:2144:0422/202151.936:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:21:51.937 
+4월 22, 2021 20:22:00.898 [14312:12692:0422/202200.898:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:22:00.898 
+4월 22, 2021 20:22:44.880 [14184:9844:0422/202244.880:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:22:44.881 
+4월 22, 2021 20:22:54.605 [6120:6604:0422/202254.605:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 22, 2021 20:22:54.606 
+
+4월 23, 2021 15:53:51.25 NEW SESSION
+4월 23, 2021 15:53:51.25 [15104:4880:0423/155351.024:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 15:53:51.25 
+4월 23, 2021 15:53:59.827 [15104:4880:0423/155359.827:ERROR:device_event_log_impl.cc(214)] [15:53:59.827] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 15:53:59.828 [15104:4880:0423/155359.828:ERROR:device_event_log_impl.cc(214)] [15:53:59.828] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 15:56:28.918 [15104:4880:0423/155628.918:ERROR:CONSOLE(1)] "Request has failed. [object Object] Fri Apr 23 2021 15:56:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 15:56:28.919 [15104:4880:0423/155628.918:ERROR:CONSOLE(1)] " [object Object] Fri Apr 23 2021 15:56:28 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 15:58:31.441 [8292:13332:0423/155831.441:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 15:58:31.441 
+4월 23, 2021 15:58:34.550 [8292:13332:0423/155834.550:ERROR:device_event_log_impl.cc(214)] [15:58:34.550] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 15:59:08.924 [8292:13332:0423/155908.924:ERROR:CONSOLE(1)] "Request has failed. [object Object] Fri Apr 23 2021 15:59:08 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 15:59:08.924 [8292:13332:0423/155908.924:ERROR:CONSOLE(1)] " [object Object] Fri Apr 23 2021 15:59:08 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 16:00:40.643 [12672:9096:0423/160040.643:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 16:00:40.643 
+4월 23, 2021 16:00:49.782 [12672:9096:0423/160049.782:ERROR:device_event_log_impl.cc(214)] [16:00:49.782] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 16:13:06.168 [3332:6228:0423/161306.168:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 16:13:06.168 
+4월 23, 2021 16:13:06.272 [3332:6228:0423/161306.271:ERROR:device_event_log_impl.cc(214)] [16:13:06.271] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 16:14:20.912 [3332:6228:0423/161420.912:ERROR:CONSOLE(1)] "Request has failed. [object Object] Fri Apr 23 2021 16:14:20 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 16:14:20.912 [3332:6228:0423/161420.912:ERROR:CONSOLE(1)] " [object Object] Fri Apr 23 2021 16:14:20 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 16:43:29.430 [15044:972:0423/164329.430:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 16:43:29.430 
+4월 23, 2021 16:43:37.587 [15044:972:0423/164337.586:ERROR:device_event_log_impl.cc(214)] [16:43:37.586] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 16:43:37.587 [15044:972:0423/164337.587:ERROR:device_event_log_impl.cc(214)] [16:43:37.587] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 16:51:05.915 [15044:972:0423/165105.915:ERROR:CONSOLE(1)] "Request has failed. [object Object] Fri Apr 23 2021 16:51:05 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 16:51:05.915 [15044:972:0423/165105.915:ERROR:CONSOLE(1)] " [object Object] Fri Apr 23 2021 16:51:05 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 17:01:19.686 [9256:10532:0423/170119.686:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 17:01:19.686 
+4월 23, 2021 17:01:19.837 [9256:10532:0423/170119.837:ERROR:device_event_log_impl.cc(214)] [17:01:19.837] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 17:01:19.838 [9256:10532:0423/170119.838:ERROR:device_event_log_impl.cc(214)] [17:01:19.838] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 17:01:33.588 [8992:14916:0423/170133.588:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 17:01:33.589 
+4월 23, 2021 17:01:34.767 [8992:14916:0423/170134.767:ERROR:device_event_log_impl.cc(214)] [17:01:34.767] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:18:58.869 [5000:13068:0423/191858.864:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:18:58.870 
+4월 23, 2021 19:19:08.470 [5000:13068:0423/191908.470:ERROR:device_event_log_impl.cc(214)] [19:19:08.470] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:19:26.441 [3472:6432:0423/191926.441:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:19:26.442 
+4월 23, 2021 19:20:18.672 [1676:13884:0423/192018.672:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:20:18.673 
+4월 23, 2021 19:25:50.144 [10024:13504:0423/192550.144:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:25:50.145 
+4월 23, 2021 19:25:50.435 [10024:13504:0423/192550.435:ERROR:device_event_log_impl.cc(214)] [19:25:50.435] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:25:50.437 [10024:13504:0423/192550.437:ERROR:device_event_log_impl.cc(214)] [19:25:50.437] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:27:16.601 [2868:13944:0423/192716.601:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:27:16.601 
+4월 23, 2021 19:29:07.679 [13524:9380:0423/192907.679:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:29:07.680 
+4월 23, 2021 19:29:15.899 [13524:9380:0423/192915.899:ERROR:device_event_log_impl.cc(214)] [19:29:15.899] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:29:15.900 [13524:9380:0423/192915.900:ERROR:device_event_log_impl.cc(214)] [19:29:15.900] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:36:14.618 [5468:13332:0423/193614.618:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:36:14.618 
+4월 23, 2021 19:40:35.137 [9896:4072:0423/194035.137:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:40:35.137 
+4월 23, 2021 19:40:41.389 [9896:4072:0423/194041.389:ERROR:device_event_log_impl.cc(214)] [19:40:41.389] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:40:41.391 [9896:4072:0423/194041.391:ERROR:device_event_log_impl.cc(214)] [19:40:41.390] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:41:42.905 [14924:14516:0423/194142.904:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:41:42.905 
+4월 23, 2021 19:41:46.98 [14924:14516:0423/194146.098:ERROR:device_event_log_impl.cc(214)] [19:41:46.099] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:41:46.100 [14924:14516:0423/194146.100:ERROR:device_event_log_impl.cc(214)] [19:41:46.101] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:42:49.598 [6592:4292:0423/194249.598:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:42:49.599 
+4월 23, 2021 19:42:52.746 [6592:4292:0423/194252.746:ERROR:device_event_log_impl.cc(214)] [19:42:52.745] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:51:44.829 [4608:10472:0423/195144.829:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:51:44.830 
+4월 23, 2021 19:51:45.35 [4608:10472:0423/195145.035:ERROR:device_event_log_impl.cc(214)] [19:51:45.035] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:51:45.37 [4608:10472:0423/195145.037:ERROR:device_event_log_impl.cc(214)] [19:51:45.037] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:52:37.521 [4608:10472:0423/195237.521:ERROR:CONSOLE(1)] "Request has failed. [object Object] Fri Apr 23 2021 19:52:37 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 19:52:37.521 [4608:10472:0423/195237.521:ERROR:CONSOLE(1)] " [object Object] Fri Apr 23 2021 19:52:37 GMT+0900 (���븳誘쇨뎅 �몴以��떆)", source: https://assets.msn.com/bundles/v1/edgeChromium/latest/vendors.f30d4f15b367f76d684e.js (1)
+4월 23, 2021 19:53:14.843 [10708:8100:0423/195314.843:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:53:14.843 
+4월 23, 2021 19:53:56.893 [2484:4752:0423/195356.893:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:53:56.894 
+4월 23, 2021 19:53:59.63 [2484:4752:0423/195359.063:ERROR:device_event_log_impl.cc(214)] [19:53:59.063] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:54:30.43 [2284:14628:0423/195430.043:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:54:30.43 
+4월 23, 2021 19:54:33.248 [2284:14628:0423/195433.248:ERROR:device_event_log_impl.cc(214)] [19:54:33.248] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:54:33.250 [2284:14628:0423/195433.250:ERROR:device_event_log_impl.cc(214)] [19:54:33.250] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:56:01.464 [14376:6096:0423/195601.463:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:56:01.464 
+4월 23, 2021 19:56:17.86 [10124:13060:0423/195617.086:ERROR:edge_auth_errors.cc(381)] EDGE_IDENTITY: Get Default OS Account failed: Error: Primary Error: kImplicitSignInFailure, Secondary Error: kAccountProviderFetchError, Platform error: -2147024894, hex:80070002, Error string: 
+4월 23, 2021 19:56:17.87 
+4월 23, 2021 19:56:22.244 [10124:13060:0423/195622.244:ERROR:device_event_log_impl.cc(214)] [19:56:22.243] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 23, 2021 19:56:22.245 [10124:13060:0423/195622.245:ERROR:device_event_log_impl.cc(214)] [19:56:22.244] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)

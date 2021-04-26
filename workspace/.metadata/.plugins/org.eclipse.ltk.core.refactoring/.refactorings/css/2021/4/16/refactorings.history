@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Move &apos;i14704658100.jpg&apos; to &apos;css&apos;" description="Move &apos;i14704658100.jpg&apos; to &apos;css&apos;" destination="/css" element1="/html/i14704658100.jpg" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1618309764256" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;css/ex8.html&apos; to &apos;ex08.html&apos;" description="Rename resource &apos;ex8.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ex8.html" name="ex08.html" stamp="1618383521392" updateReferences="true"/>
+</session>

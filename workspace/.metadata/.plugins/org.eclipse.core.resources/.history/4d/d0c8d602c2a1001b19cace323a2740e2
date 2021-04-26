@@ -1,0 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+</head>
+<body>
+<%int sum=0; %>
+<%="1~100 = " %>
+
+
+<hr>
+<% int num2=123; %>
+<%= num2 %><br>
+<%= "test입니다" %>	<%--out.print와 비슷 --%>
+<hr>
+	<h1>jsp 시작입니다</h1>
+	<%--jsp전체주석 --%>
+	<%
+		int num=100;
+	System.out.print(num);//콘솔로 출력
+	out.print("<h1>jsp 값"+num+"</h1>");
+	%>
+	<h1>jsp 끝입니다</h1>
+</body>
+</html>

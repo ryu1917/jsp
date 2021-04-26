@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<div class="css_pic">
+		<button class="b1">가로100픽셀</button>
+		<button class="b2">가로200픽셀</button>
+		<button class="b3">가로300픽셀</button>
+		<hr>
+		<img name="pic1" src="resources/images/car01.png">
+	
+	
+	
+	</div>
+</body>
+</html>

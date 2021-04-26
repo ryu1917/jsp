@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex16</title>
+<script src="jquery-3.6.0.min.js"></script>
+<script>
+	$(function(){
+		$("#panel").click(function(){ $("#panel").sildeUp("fast")})
+		$("#slide").click(function(){ $("#panel").sildeDown("fast")})
+		$("#flip").click(function(){ $("#panel").sildeToggle("slow")})
+		$("#stop").click(function(){ $("#panel").stop()})
+		
+		
+	})
+
+</script>
+<style type="text/css">
+	#slide,#panel,#flip{padding: 5px;text-align: center;background-color: aqua;border: 1px solid gray;}
+	#panel {padding: 70px;display: none;background-color: olive;}
+</style>
+
+</head>
+<body>
+	<div id="slide">[오늘의 공지사항]</div>
+	<div id="panel" > 오늘의 공지사항입니다
+		<div style="display:flex;">
+			<div style="width: 100px">
+			<a href="">1</a><a href="">1</a><a href="">1</a><a href="">1</a>
+		</div>
+		<div>
+			<a href="">1</a><a href="">1</a><a href="">1</a>
+		</div>
+		</div>
+	
+	</div>
+	
+	<div id="flip">토글 슬라이드</div>
+	<button id="stop">멈춤</button>
+</body>
+</html>

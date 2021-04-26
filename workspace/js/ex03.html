@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function test(){
+		n=document.getElementById("n2").value
+		if(n==""){
+			
+		}
+		n=document.getElementById("n1").value
+		document.getElementById("n1").value=""
+		document.getElementById("n2").value=n
+		document.getElementById("h1").innerHTML="다른값" +cnt++
+		document.getElementById("img").src="magi.png"
+				
+	}
+</script>
+<style type="text/css">
+	#n1{width: 100px;}
+	.img{width: 100px;height: 100px;}
+</style>
+</head>
+<body>
+<h1 id="h1">클릭전 메세지 입니다</h1>
+<input type="text" id="n1"><br>
+<input type="text" id="n2"><br>
+<span onclick="test()">클릭</span><!--  -->
+<img id="img" class="img" src="i14704658100.jpg">
+</body>
+</html>

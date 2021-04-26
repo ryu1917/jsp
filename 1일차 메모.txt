@@ -1,0 +1,54 @@
+<body>열린태그
+head : 이메일주소나 정보들
+body : 내용작성하는 곳 
+
+<br> : 엔터한번, 줄바꿈
+<hr> : 가로줄한개
+<p></p> : 해당 줄을 위아래 두줄 띄움
+
+</body>닫힌태그
+<meta charset="EUC-KR">없는것도 있음
+colspan="2" : 자기기준으로 오른쪽을 병합
+rowspan="2": 자기기준으로 아래쪽을 병합
+<b>굵은 글씨</b>
+<i>기울임 글씨</i>
+<u>밑줄</u>
+<sup>위첨자</sup>
+<sub>아래</sub>
+(폰트는 한줄이 끝나도 줄바꿈이 없음)(inline)
+<font size="7" color="blue"face="궁서체">font size 7</font>
+<font size="6">font size 6</font>
+<font size="5">font size 5</font>
+<font size="4">font size 4</font>
+<font size="3">font size 3</font>
+<font size="2">font size 2</font>
+<font size="1">font size 1</font>
+(숫자가 작을수록 글씨 크기가 큼)h는 한줄이 끝나면 줄바꿈이 일어남
+<h1>h1 : 문서의 주 제목</h1>
+<h2>h2 : 문서의 주 제목 또는 부제목</h2>
+<h3>h3 : 문서의 부제목 또는 내용</h3>
+<h4>h4 : 문서의 내용</h4>
+<h5>h5 : 문서의 내용</h5>
+<h6>h6 : 문서의 내용</h6>
+
+<ol> 리스트 숫자로매김
+<li>스포츠</li>
+<li>영화</li>
+</ol>
+<ul type="circle"> 리스트 타입 지정해서 매김
+<li>스포츠</li>
+<li>영화</li>
+</ul>
+
+	<dl>
+		<dt><b>HTML</b></dt>
+		<dd> 들여쓰기
+			하이퍼텍스트 마크업 랭귀지의<br>약자로 웹문서를 만들기 위한 언어다
+		</dd>
+	</dl>
+<img alt="이미지를 불러오지못하면 여기있는 텍스트를 불러옴" src="경로">
+
+
+<a href="https://www.naver.com/">네이버 연결</a>인터넷사이트로 이동하는링크
+<a href="quiz_time.html">시간표</a><br>내가 가진 html파일도 연결가능
+<a href="quiz_time.html" title="시간표 연결"마우스를 올리면 나오는 설명>시간표</a><br>

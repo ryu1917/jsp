@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ex18</title>
+
+
+<style type="text/css">
+	.dd{width: 200px; height: 100px; padding: 10px;background-color: gray;
+		border: 2px solid black;}
+	
+</style>
+<script src="jquery-3.6.0.min.js"></script>
+<script src="jquery-1.12.1-ui"></script>
+<script>
+	$(function(){
+		$("#d").draggable()
+	})
+</script>
+</head>
+<body>
+	<div id="d" class="dd">
+		<p>드래그</p>
+	</div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style type="text/css">
+.wrap { width:500px;  display:flex;flex-flow:column; 
+        height:500px; border-style: solid;}
+.header{order:1;height:20%; background:red;}
+.nav{order:2;width:50px;height:300px;background-color: yellow;margin: auto;text-align: center;border: 1px solid black;}
+.section{order:3;display:flex; height:50%;}
+.section section{order:1;width:70%; height:100%; background:green;}
+.section aside{order:2; width:30%; height:100%; background:skyblue;}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="header">&#60;header&#62;</header>
+<nav class="nav">&#60;nav&#62;</nav>
+<div class="section">
+<aside class="aside">&#60;aside&#62;</aside>
+<section class="section">&#60;section&#62;</section></div>
+
+<footer class="footer">&#60;footer&#62;</footer>
+</div>
+</body>
+</html>
